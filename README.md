@@ -1,20 +1,17 @@
-# 🤖Naga-Bot🤖
-BOT WHATSAPP TERMUX ONLY BY Naga-Bot
+# PUPY-BOT
+BOT WHATSAPP TERMUX ONLY BY PUPY BOT
 
-### Alat dan Bahan
-Siapin alat dan bahannya.
+# ALAT
+
 ```bash
-> niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
+> jaringan wifi/internet
 > penyimpanan yang memadai
-> aplikasi whatsapp
-> jika error hubungi 088235435804
+> aplikasi whatsapp bisnis
 > aplikasi termux
-> kopi nya diminum..
-```
 
-### Cara Installnya
+
+# CARA INSTALL
 
 ```bash
 > kalo lu belum punya apk termux, download di playstore !
@@ -22,18 +19,18 @@ Siapin alat dan bahannya.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git clone https://github.com/fallahX/PUPY-BOTV1
+> cd PUPY-BOTV1
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
-> Tinggal scan kode qr ya cuy...done cuk
+> Tinggal scan kode qr ya
 ```
 
 ## Features
 
-| Naga-Bot🤖  |                   Feature        |
-| :-----------: | :------------------------------: |
+| PUPY-BOTV1     |                   Feature        |
+| :-----------:  | :------------------------------: |
 |       ✅       | Sticker Creator                  |
-|       ✅       | Nulis                           |
+|       ✅       | Nulis                            |
 |       ✅       | Covid (new)                      |
 |       ✅       | Alay (new)                       |
 |       ✅       | Lirik (new)                      |
@@ -57,22 +54,16 @@ Siapin alat dan bahannya.
 |       ✅       | Say                              |
 |       ✅       | Toxic (new)                      |
 |       ✅       | loli                             |
-|       ✅       | hentai                           |
+|       👷       | Command Dalam Perbaikan          |
 |       ✅       | Owner (new)                      |
 |       ✅       | kata bijak                       |
 |       ✅       | Fakta                            |
 |       ✅       | Pokemon                          |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
-|                   MORE                           |
+|                   MORE                            |
 
-Ket: Aktiv 24 jam
-Jika ada kendala hubungi kami..
+Ket: AKTIV SELAMA JARINGAN LANCAR
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (NFQ SQUAD)
-
-## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UC0KCrPNyL-E7NZIp2l3mZLQ) 
-* [`Instagram Admin`](https://instagram.com/fws_grup)
-* [`WhatsApp Admin `](https://wa.me/6281357302007)
+BOT INI KHUSUS ANDROID-TERMUX
