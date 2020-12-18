@@ -18,8 +18,8 @@ BOT WHATSAPP TERMUX ONLY BY PUPY BOT
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/fallahX/PUPY-BOTV2
-> cd PUPY-BOTV2
+> git clone https://github.com/fallahX/PUPY-BOTV2.1
+> cd PUPY-BOTV2.1
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr ya
 ```
