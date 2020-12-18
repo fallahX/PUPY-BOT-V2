@@ -784,4 +784,3 @@ if (text.includes("#alay")){
 
 
 }
-
