@@ -1,7 +1,7 @@
 # PUPY-BOT
 BOT WHATSAPP TERMUX ONLY BY PUPY BOT
 
-# ALAT
+•ALAT
 
 ```bash
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
@@ -13,7 +13,6 @@ BOT WHATSAPP TERMUX ONLY BY PUPY BOT
 
 # CARA INSTALL
 
-```bash
 > kalo lu belum punya apk termux, download di playstore !
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
