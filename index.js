@@ -1,8 +1,8 @@
 /*
 * "Jangan modal nama doang bro!!!"
-* (Scriptnya Nfq cuy).
+* (Scriptnya PBB V1).
 */
-const BotName = '‘PUPY-BOTV1‘'; // Nama Bot Whatsapp
+const BotName = '‘PUPY-BOTV2‘'; // Nama Bot Whatsapp
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
 
 //
